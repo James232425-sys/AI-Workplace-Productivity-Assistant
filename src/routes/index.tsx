@@ -58,7 +58,7 @@ const STATS = [
 function Dashboard() {
   return (
     <AppLayout
-      title="Welcome back 👋"
+      title="Welcome back"
       description="Your AI workspace for faster writing, sharper summaries and better workplace communication."
     >
       <section className="glass rounded-3xl p-6 sm:p-8">
